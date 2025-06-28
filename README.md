@@ -1,5 +1,5 @@
 
-![Header](https://github.com/ballasrr/ballasrr/blob/master/assets/copy_0EB55242-C8C8-41D7-A48B-6B706C8FDA5C.gif)
+![Header](https://github.com/ballasrr/ballasrr/blob/master/assets/samurai-sword.gif)
 
 
 
