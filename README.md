@@ -2,7 +2,7 @@
 <hr>
 
 <p align="center">
-    <a href="mailto:xaclafun1991@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/> <a href="https://discordapp.com/users/733051968011894806/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"><a/> <a href="https://t.me/S_Hauptmann"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><a/>
+    <a href="mailto:mrzipsru@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/> <a href="https://t.me/Ballas_RR"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><a/>
 <p/>
 
 ## 💻 Technology Stack
