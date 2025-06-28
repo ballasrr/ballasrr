@@ -17,15 +17,7 @@
 |--------|--------|--------|---------|--------|----------|-------|
 | ![Python](https://skillicons.dev/icons?i=python) | ![Django](https://skillicons.dev/icons?i=django) | ![Flask](https://skillicons.dev/icons?i=flask) | ![FastAPI](https://skillicons.dev/icons?i=fastapi) | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="40"/> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" width="40"/> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" width="40"/> |
 
----
 
-### 🌐 Frontend
-
-| JavaScript | HTML | CSS | TailwindCSS |
-|----------|------|-----|-------------|
-| ![JS](https://skillicons.dev/icons?i=js) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
-
----
 
 ### 🐳 DevOps & Infrastructure
 
@@ -39,7 +31,7 @@
 
 | PostgreSQL | MongoDB | Redis |
 |------------|----------|--------|
-| ![Postgres](https://skillicons.dev/icons?i=postgres) | ![MongoDB](https://skillicons.dev/icons?i=mongo) | ![Redis](https://skillicons.dev/icons?i=redis) |
+| ![Postgres](https://skillicons.dev/icons?i=postgres) | ![MongoDB](https://skillicons.dev/icons?i=mongo) | ![Redis](https://skillicons.dev/icons?i=redis) | ![Mysql](https://skillicons.dev/icons?i=mysql) 
 
 ---
 
