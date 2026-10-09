@@ -16,6 +16,12 @@
   <img src="https://komarev.com/ghpvc/?username=ballasrr&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" />
 </p>
 
+<!-- ═══════════════════════ TERMINAL ═══════════════════════
+     Анимированная карточка: assets/terminal.svg -->
+<p align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="terminal" />
+</p>
+
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 <h2 align="center">🧑‍💻 About Me</h2>
 
@@ -126,15 +132,15 @@ const ballas = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ballasrr&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" />
 </p>
 
-<!-- ═══════════════════════ SNAKE ═══════════════════════
-     Змейка генерируется workflow-файлом .github/workflows/snake.yml -->
-<h2 align="center">🐍 Contribution Snake</h2>
+<!-- ═══════════════════════ 3D CITY ═══════════════════════
+     Генерируется workflow-файлом .github/workflows/profile-3d.yml -->
+<h2 align="center">🏙️ Contribution City</h2>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ballasrr/ballasrr/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ballasrr/ballasrr/output/github-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/ballasrr/ballasrr/output/github-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contributions" />
   </picture>
 </p>
 
