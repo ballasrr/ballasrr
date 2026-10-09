@@ -22,40 +22,6 @@
   <img src="./assets/terminal.svg" width="100%" alt="terminal" />
 </p>
 
-<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
-<h2 align="center">🧑‍💻 About Me</h2>
-
-<table align="center">
-<tr>
-<td width="55%" valign="top">
-
-```ts
-const ballas = {
-  role: "Backend Developer",
-  mainStack: ["Python", "TypeScript"],
-  frameworks: ["Django", "FastAPI", "Flask", "NestJS", "Express"],
-  databases: ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
-  devops: ["Docker", "Nginx", "Linux", "Grafana", "Prometheus"],
-  currentlyLearning: ["Node.js ecosystem", "Advanced TypeScript"],
-  motto: "Clean code, stable services, fast APIs ⚡",
-};
-```
-
-</td>
-<td width="45%" valign="top">
-
-- 🐍 **3+ years** of Python backend
-- 🟦 Growing in **TypeScript / Node.js**
-- ⚙️ REST & GraphQL APIs, queues, background jobs
-- 🐳 Shipping services with Docker + Nginx
-- 📊 Observability: Grafana & Prometheus
-- 💬 Ask me about **Django, FastAPI, NestJS**
-- 📫 Fastest way to reach me — **[Telegram](https://t.me/Ballas_RR)**
-
-</td>
-</tr>
-</table>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════ STACK ═══════════════════════ -->
@@ -128,19 +94,16 @@ const ballas = {
   <img src="https://streak-stats.demolab.com?user=ballasrr&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ballasrr&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" />
-</p>
 
-<!-- ═══════════════════════ 3D CITY ═══════════════════════
-     Генерируется workflow-файлом .github/workflows/profile-3d.yml -->
-<h2 align="center">🏙️ Contribution City</h2>
+<!-- ═══════════════════════ PAC-MAN ═══════════════════════
+     Генерируется workflow-файлом .github/workflows/pacman.yml -->
+<h2 align="center">👾 Contribution Pac-Man</h2>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contributions" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ballasrr/ballasrr/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ballasrr/ballasrr/output/pacman-contribution-graph.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ballasrr/ballasrr/output/pacman-contribution-graph-dark.svg" width="100%" />
   </picture>
 </p>
 
