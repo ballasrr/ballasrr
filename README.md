@@ -1,3 +1,4 @@
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
   <img src="https://github.com/ballasrr/ballasrr/blob/master/assets/copy_0EB55242-C8C8-41D7-A48B-6B706C8FDA5C%20(1).gif?raw=true" width="100%" />
 </p>
@@ -9,30 +10,50 @@
 </p>
 
 <p align="center">
-  <a href="mailto:mrzipsru@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/Ballas_RR"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:mrzipsru@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e" /></a>
+  <a href="https://t.me/Ballas_RR"><img src="https://img.shields.io/badge/Telegram-1a1b26?style=for-the-badge&logo=telegram&logoColor=7dcfff" /></a>
+  <a href="https://github.com/ballasrr?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
   <img src="https://komarev.com/ghpvc/?username=ballasrr&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+<h2 align="center">🧑‍💻 About Me</h2>
 
-## 🧑‍💻 About Me
+<table align="center">
+<tr>
+<td width="55%" valign="top">
 
 ```ts
 const ballas = {
   role: "Backend Developer",
   mainStack: ["Python", "TypeScript"],
   frameworks: ["Django", "FastAPI", "Flask", "NestJS", "Express"],
-  currentlyLearning: ["Node.js ecosystem", "Advanced TypeScript"],
   databases: ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
   devops: ["Docker", "Nginx", "Linux", "Grafana", "Prometheus"],
+  currentlyLearning: ["Node.js ecosystem", "Advanced TypeScript"],
   motto: "Clean code, stable services, fast APIs ⚡",
 };
 ```
 
+</td>
+<td width="45%" valign="top">
+
+- 🐍 **3+ years** of Python backend
+- 🟦 Growing in **TypeScript / Node.js**
+- ⚙️ REST & GraphQL APIs, queues, background jobs
+- 🐳 Shipping services with Docker + Nginx
+- 📊 Observability: Grafana & Prometheus
+- 💬 Ask me about **Django, FastAPI, NestJS**
+- 📫 Fastest way to reach me — **[Telegram](https://t.me/Ballas_RR)**
+
+</td>
+</tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💻 Tech Stack
+<!-- ═══════════════════════ STACK ═══════════════════════ -->
+<h2 align="center">💻 Tech Stack</h2>
 
 <table align="center">
   <tr>
@@ -73,7 +94,24 @@ const ballas = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 GitHub Stats
+<!-- ═══════════════════════ PROJECTS ═══════════════════════
+     Раскомментируй и впиши названия своих публичных репозиториев,
+     чтобы показать карточки лучших проектов.
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/ballasrr/REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ballasrr&repo=REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/ballasrr/REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ballasrr&repo=REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+═══════════════════════════════════════════════════════════ -->
+
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ballasrr&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
@@ -86,6 +124,23 @@ const ballas = {
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ballasrr&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" />
+</p>
+
+<!-- ═══════════════════════ SNAKE ═══════════════════════
+     Змейка генерируется workflow-файлом .github/workflows/snake.yml -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ballasrr/ballasrr/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ballasrr/ballasrr/output/github-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/ballasrr/ballasrr/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%E2%AD%90;Open+to+interesting+backend+projects" />
 </p>
 
 <p align="center">
